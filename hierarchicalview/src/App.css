@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dropdown-menu {
+  flex: 1;
+}
+
+.organizational-structure {
+  flex: 2;
+}
